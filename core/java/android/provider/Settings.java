@@ -3587,6 +3587,11 @@ public final class Settings {
             }
         }
 
+         /** @hide Screen Off FOD.
+          **/
+          
+         public static final String FOD_GESTURE = "fod_gesture";
+         
         /**
          * @hide Erase the fields in the Configuration that should be applied
          * by the settings.
